@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bayan-midT1</string>
+    <string name="welcome">Welcome to the project of Bayan Al Shikh Zien, ID: 181237</string>
+    <string name="id">ID*</string>
+    <string name="name">Name*</string>
+    <string name="email">Email*</string>
+    <string name="phone">Phone Number (Optional)</string>
+    <string name="bttninsert">Insert</string>
+    <string name="bttnback">back</string>
+    <string name="search">Search</string>
+    <string name="hint">Delete</string>
+    <string name="view">View</string>
+    <string name="go1">Go to 1</string>
+    <string name="go2">Go to 2</string>
+    <string name="go3">Go to 3</string>
+</resources>
